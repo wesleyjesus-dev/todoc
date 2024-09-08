@@ -193,4 +193,6 @@ iOSInjectionProject/
 /*.gcno
 **/**/xcshareddata/*
 
+TodoCApp.xcodeproj/project.pbxproj
+
 # End of https://www.toptal.com/developers/gitignore/api/swift,xcode,Cobjective-c,osx
